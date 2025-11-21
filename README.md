@@ -5,6 +5,8 @@
 4. Baixe o app Expo Go para Android ou IOS.
 5. Caso tenha problemas de rede, utilize o modo túnel: `npx expo start --tunnel`
 ---
+Video demonstrativo: (https://youtu.be/u3xOb1Ls8JQ?si=LkNa_fhB4G9ypdvJ)
+---
 ## 📌 Integrantes
 - Eduardo Gomes Pinho Junior - 97919
 - Gustavo Ferreira Lopes - 98887
