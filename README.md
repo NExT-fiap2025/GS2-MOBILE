@@ -5,8 +5,7 @@
 4. Baixe o app Expo Go para Android ou IOS.
 5. Caso tenha problemas de rede, utilize o modo túnel: `npx expo start --tunnel`
 ---
-## 📌 Integrantes (Exemplo)
-
+## 📌 Integrantes
 - Eduardo Gomes Pinho Junior - 97919
 - Gustavo Ferreira Lopes - 98887
 - Enzo de Oliveira Cunha - 550985
