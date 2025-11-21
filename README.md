@@ -1,4 +1,4 @@
-## Passo a passo rápido
+## 🚀 Passo a Passo rápido para rodar o projeto
 1. Clone o repositório
 2. Instale as dependências: `npm install`
 3. Inicie o projeto: `npx expo start`
@@ -54,12 +54,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ---
 
-## 🚀 Passo a Passo para Rodar o Projeto
 
-Siga os passos abaixo para executar a aplicação em seu ambiente local:
-
-### 1. Clonar o Repositório
-Abra seu terminal e clone este repositório:
-
-```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
