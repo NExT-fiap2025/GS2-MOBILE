@@ -7,6 +7,8 @@
 
 ### ▶️ Vídeo Explicativo
 Link para o vídeo: (https://youtu.be/u3xOb1Ls8JQ?si=LkNa_fhB4G9ypdvJ)
+### ▶️ Vídeo Explicativo para matéria de IOT
+Link para o vídeo: (https://youtu.be/MjIQqtfttbo?si=hKxhAnbY7KVGLdqz)
 
 ## 📌 Integrantes
 - Eduardo Gomes Pinho Junior - 97919
