@@ -52,7 +52,7 @@ O app conecta o mundo físico ao digital através de um modelo de detecção de 
 * **Evidência:** A foto original é salva e anexada aos detalhes da tarefa para rastreabilidade.
 
 * ### ▶️ Vídeo Explicativo para matéria de IOT
-Link para o vídeo: (https://youtu.be/u3xOb1Ls8JQ?si=LkNa_fhB4G9ypdvJ)
+Link para o vídeo: (https://youtu.be/MjIQqtfttbo?si=hKxhAnbY7KVGLdqz)
 
 ---
 
