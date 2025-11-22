@@ -36,6 +36,24 @@ O app foca na organização pessoal e profissional, utilizando uma **IA Simulada
 * **Dashboard de Progresso:** Barra de progresso motivacional baseada nas tarefas concluídas.
 * **Persistência de Dados:** Uso do `AsyncStorage` para salvar todas as informações localmente no dispositivo.
 
+### 👁️ Visão Computacional (Integração Roboflow)
+
+O app conecta o mundo físico ao digital através de um modelo de detecção de objetos treinado no **Roboflow**.
+
+* O maior desafio do trabalho híbrido é a desconexão entre o escritório físico e as ferramentas digitais.
+* O Problema: Equipes fazem reuniões presenciais incríveis, enchem o quadro branco de ideias, mas depois alguém perde horas digitando tudo isso no sistema.
+* Solução: Criamos uma "ponte automática". O que é desenhado no físico vira dado no digital instantaneamente. Isso é a definição de preparar organizações para novos tempos e ambientes híbridos.
+
+* **Digitalização de Quadros:** Tire uma foto de um quadro branco com post-its ou desenhos.
+* **Lógica Visual:** O sistema identifica cores para definir atributos automaticamente:
+    * 🔴 **Vermelho:** Prioridade Alta (A Fazer)
+    * 🔵 **Azul:** Prioridade Média (Em Andamento)
+    * 🟢 **Verde:** Tarefa Concluída (Done)
+* **Evidência:** A foto original é salva e anexada aos detalhes da tarefa para rastreabilidade.
+
+* ### ▶️ Vídeo Explicativo para matéria de IOT
+Link para o vídeo: (https://youtu.be/u3xOb1Ls8JQ?si=LkNa_fhB4G9ypdvJ)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
